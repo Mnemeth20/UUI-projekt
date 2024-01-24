@@ -1,0 +1,1 @@
+Aplikaciju je potrebno samo pokrenuti u terminalu.
